@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import pprint
 username = "31wtohyn3sx75oc6l3i2efxtp6b4"
 client_id = "42fa8c20c7b74f918bc0efdeaefb7dea"
-client_secret= "baadf95583204e4292bf52e9344b4bcb"
+client_secret= "cant share publicly"
 redirect_url = "http://127.0.0.1:8080/"
 scope = "playlist-modify-public"
 url = "https://www.billboard.com/charts/hot-100/"
